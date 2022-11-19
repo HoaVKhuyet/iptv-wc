@@ -37,3 +37,12 @@ https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🏆 World Cup 2022" tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/CJAbJfM.png",TF1(Android)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
 https://mtv-live.cloud-02.molotov.tv/public/tf1/tf1.isml/fullhd25.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="🏆 World Cup 2022",DSTV  World Cup 4K 2160p
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/129061.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FIFA WC 09" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="🏆 World Cup 2022",WC 4K Feed v1
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/129096.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FIFA WC 10" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="🏆 World Cup 2022",WC 4K Feed v2
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/129097.ts
