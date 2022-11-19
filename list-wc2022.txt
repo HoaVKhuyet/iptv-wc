@@ -1,0 +1,317 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
+#List suu tam Internet
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DyyQFjCg+FzxhkIno4vM/A", "kid":"33jRbDgdcB3HLsCxzIFZCw" } ], "type":"temporary" }
+#EXTINF:-1 group-title="France" tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/CJAbJfM.png",TF1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+https://mtv-live.cloud-02.molotov.tv/public/tf1/tf1.isml/fullhd25.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b9879511f86e85cf18488a9a4885143:0c39a038911d12d7ccbd60a4adab3764
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="action.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/TF1_S%C3%A9ries_Films_logo_2018.svg/2560px-TF1_S%C3%A9ries_Films_logo_2018.svg.png", TF1 Series Films
+https://mtv-live.cloud-02.molotov.tv/public/tf1seriesfilms/tf1seriesfilms.isml/fullhd25.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=920d10dfcbb830c6a83efe8681af5f58:e9b7c5308b3fea47d0dc86d7696e70fd
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="NICKELODEON" tvg-logo="https://logo.iptveditor.com/nickelodeon.png", NICKELODEON +1
+https://mtv-live.cloud-02.molotov.tv/public/nickelodeonplus1/nickelodeonplus1.isml/fullhd25.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=542967ba82e6ea0e9cc8d970524682a8:6a570204e569f2ddea03f7f9f10a6909
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="NickelodeonJunior.fr" tvg-logo="https://logo.iptveditor.com/nickelodeonjunior.png", NICKELODEON JUN
+https://mtv-live.cloud-02.molotov.tv/public/nickelodeonjunior/nickelodeonjunior.isml/fullhd25.mpd
+ 
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="action.fr" tvg-logo=
+https://mtv-live.cloud-02.molotov.tv/public/tiji/tiji.isml/fullhd25.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daecde25acf56b2dd7680be9a0c9b000:2aa29e267d1eb52797f1eec2f8d76823
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="NickelodeonFrance.fr" tvg-logo="https://logo.iptveditor.com/nickelodeon.png", NICKELODEON
+https://mtv-live.cloud-02.molotov.tv/public/nickelodeon/nickelodeon.isml/fullhd25.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32e9ce47dd6a0c167469a3ce045adab0:c24b0c59fa3a124614a2134205e129c8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="CanalJ.fr" tvg-logo="https://logo.iptveditor.com/canalj.png", CanalJ
+https://mtv-live.cloud-02.molotov.tv/public/canalj/canalj.isml/fullhd25.mpd
+ 
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e1e489605e44118ba1e1f9491df5b46:01ebcce5ff3bc02d56650b935948f304
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="Animaux.fr" tvg-logo="https://logo.iptveditor.com/animaux.png", Animaux
+https://mtv-live.cloud-02.molotov.tv/public/animaux/animaux.isml/fullhd25.mpd
+ 
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c34347de6294174bb83afb814b20321:1ef9f598a330bc4225ee06fda91873b2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="Mangas.fr" tvg-logo="https://logo.iptveditor.com/mangas.png", Mangas
+https://mtv-live.cloud-02.molotov.tv/public/mangas/mangas.isml/fullhd25.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42b45c8111194f0fbd492e303533c5d0:34436405305f335c9b270c53663974b0
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="BoingFrance.fr" tvg-logo="https://logo.iptveditor.com/boing.png", Boing
+https://mtv-live.cloud-02.molotov.tv/public/boing/boing.isml/fullhd25.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55348c093d54274ddbfa2318ee5fa4fe:bfeb71f28752a537b4714422b4ba0076
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="tmc+1" tvg-logo="https://logo.iptveditor.com/tmc.png", TMC+1
+https://mtv-live.cloud-02.molotov.tv/public/tmcplus1/tmcplus1.isml/fullhd25.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56bfba3ba94b467d8507e398474b8869:8971aa7bf6e1c705d18f5d034b770444
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="BloombergTVEurope.uk" tvg-logo="https://logo.iptveditor.com/boomerang.png", Boomerang
+https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/fullhd25.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=249f464e0cca430a9b4b6750110aa418:3761e43f15f5bdf1d9b1e0befc40c241
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="Gulli.fr" tvg-logo="https://logo.iptveditor.com/gulli.png", Gulli
+https://mtv-live.cloud-02.molotov.tv/public/gulli/gulli.isml/fullhd25.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff7f8662c97d4f98b4565ca53c7a2fa6:53f207e4b34b9f06fa2c0fcdafa20181
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="tmc+1" tvg-logo="https://logo.iptveditor.com/m6.png", M6
+https://mtv-live.cloud-02.molotov.tv/public/m6/m6.isml/fullhd25.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e33d2144bed2433da331b614b0c63876:6c7b271ca0980893224239753748abf7
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="tmc+1" tvg-logo="https://logo.iptveditor.com/rtl9.png", RTL9
+https://mtv-live.cloud-02.molotov.tv/public/rtl9/rtl9.isml/fullhd25.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e39a3d91fba942c9a4dfc820b3100979:830169e432546051902f299ab544cf35
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="tmc" tvg-logo="https://logo.iptveditor.com/tmc.png", TMC
+https://mtv-live.cloud-02.molotov.tv/public/tcm/tcm.isml/fullhd25.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a01ded62df0d4229b0d310029fe09350:d1c798ac6e41bcdd6328a746de6cf753
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="action.fr" tvg-logo="https://www.golfchannel.fr/images/chaine/action.png", Action
+https://mtv-live.cloud-02.molotov.tv/public/action/action.isml/fullhd25.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=085bceefaf0647359e951e94be997617:58a5df8d6a4a2ee82f8c5026a43535bb
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="Pramountchannel" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/Paramount_Channel_Ch%C3%A2u_%C3%81.png/revision/latest?cb=20220126150331&path-prefix=vi", Pramount Channel
+https://mtv-live.cloud-02.molotov.tv/public/paramountchannel/paramountchannel.isml/fullhd25.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=856228f3d93fdf9ef3c730bd07ed13b6:7c71db4f8db60a06b24208da3a0bfd1f
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="Pramount channel decale" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/PARAMOUNT_CHANNEL_DECALE.png", Pramount Channel Decale
+https://mtv-live.cloud-02.molotov.tv/public/paramountchanneldecale/paramountchanneldecale.isml/fullhd25.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13c62f10358826f900c488d1cac6f036:333f8fe3ea7b8bd5828f5a53dcdd5e18
+#EXTINF:-1 group-title="France" tvg-id="OCS MAX" tvg-logo="https://logo.iptveditor.com/ocsmax.png",OCS Max
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+https://mtv-live.cloud-02.molotov.tv/public/ocsmax/ocsmax.isml/fullhd25.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebac61ec9e2ae268345efd413fe12d80:a470458bd21e539d14568a104a747bd2
+#EXTINF:-1 group-title="France" tvg-id="OCSCity.fr" tvg-logo="https://logo.iptveditor.com/ocscity.png",OCS City
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+https://mtv-live.cloud-02.molotov.tv/public/ocscity/ocscity.isml/fullhd25.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c34227fb3f12b564acb28909f4dd0cb:3107a9fd298a9cac1c59884666481315
+#EXTINF:-1 group-title="France" tvg-id="OCSGeants.fr" tvg-logo="https://logo.iptveditor.com/ocsgeants.png",OCS Geants
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+https://mtv-live.cloud-02.molotov.tv/public/ocsgeants/ocsgeants.isml/fullhd25.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=227a1a2541acae7a90ee6ecc5c8ee59e:005964dd1f6eb8b612137ffbd2a3f80d
+#EXTINF:-1 group-title="France" tvg-id="cinepremier.fr" tvg-logo="https://w0rld.tv/wp-content/uploads/2020/09/cine-premier.png",Cine Premier
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+https://mtv-live.cloud-02.molotov.tv/public/cinepremier/cinepremier.isml/fullhd25.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a92ef199c9b20bb2c4bb7c78d490d46:736f5b01fcd757124e8719bd73982947
+#EXTINF:-1 group-title="France" tvg-id="cineemotion.fr" tvg-logo="https://w0rld.tv/wp-content/uploads/2020/09/cine-emotion.png", Cine Emotion
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+https://mtv-live.cloud-02.molotov.tv/public/cineemotion/cineemotion.isml/fullhd25.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b456934f4444299a83dad6405bf1757f:3c48ca38d6ad4d12723a9258629ab69a
+#EXTINF:-1 group-title="France" tvg-id="cineemotion.fr" tvg-logo="https://logo.iptveditor.com/ciné+frisson.png", Cine Frisson
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+https://mtv-live.cloud-02.molotov.tv/public/cinefrisson/cinefrisson.isml/fullhd25.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ece8c309a2464a4a892ad80d11576b04:e31ddcd1d8bc19206b967a94ad14aa0d
+#EXTINF:-1 group-title="France" tvg-id="cineemotion.fr" tvg-logo="https://logo.iptveditor.com/cine+famiz.png", Cine Famiz
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+https://mtv-live.cloud-02.molotov.tv/public/cinefamiz/cinefamiz.isml/fullhd25.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b055f08fa274b7466c869e1940159bc:56020781a28cba99d6eccd8310e026a9
+#EXTINF:-1 group-title="France" tvg-id="cineemotion.fr" tvg-logo="https://logo.iptveditor.com/ciné+club.png", Cine Club
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+https://mtv-live.cloud-02.molotov.tv/public/cineclub/cineclub.isml/fullhd25.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=932a7683a304aacd9e0eade078a47a53:f8b4fd9175d9e1a24f9e4f4151408113
+#EXTINF:-1 group-title="France" tvg-id="cineemotion.fr" tvg-logo="https://logo.iptveditor.com/ciné+classic.png", Cine Classic
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+https://mtv-live.cloud-02.molotov.tv/public/cineclassic/cineclassic.isml/fullhd25.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93dfad954bfc4ec083b8705239c842c0:8a13a1bd4d614b7bd0f773b453006ba3
+#EXTINF:-1 group-title="France" tvg-id="Luxetv.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/LUXETV_LOGO_BLACK_MONOCHROME.png/375px-LUXETV_LOGO_BLACK_MONOCHROME.png", LuxeTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+https://mtv-live.cloud-02.molotov.tv/public/luxetv/luxetv.isml/fullhd25.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8ad1a944046fc5f5e20a2c60efa63d2:adb98638aae241aa585fd9815188744c
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+#EXTINF:-1 group-title="France" tvg-id="action.fr" tvg-logo="https://logo.iptveditor.com/playboytv.png", Playboy
+https://mtv-live.cloud-02.molotov.tv/public/playboytveurope/playboytveurope.isml/fullhd25.mpd
+
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT
+http://live.vthanhtivi.pw:8080/vtv2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV
+http://live2.vthanhtivi.pw:8080/stream/channelid/981367656?profile=pass
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
+http://live.vthanhtivi.pw:8080/vtv3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 T2
+http://live2.vthanhtivi.pw:8080/stream/channelid/1949009839?profile=pass
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
+http://live.vthanhtivi.pw:8080/vtv5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV
+http://live2.vthanhtivi.pw:8080/stream/channelid/1613570790?profile=pass
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT
+http://live.vthanhtivi.pw:8080/vtvct
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ MyTV
+http://live2.vthanhtivi.pw:8080/stream/channelid/1479230732?profile=pass
+
+
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="GB : BT SPORTS 01" tvg-logo="http://n2086.securepoint.io:25461/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 01
+http://wayforward.xyz:25461/marsha/marsha/53850
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="GB : BT SPORTS 02" tvg-logo="http://n2086.securepoint.io:25461/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 02
+http://wayforward.xyz:25461/marsha/marsha/53851
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="GB : BT SPORTS 03" tvg-logo="http://n2086.securepoint.io:25461/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 03
+http://wayforward.xyz:25461/marsha/marsha/53852
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="GB : BT SPORTS 04" tvg-logo="http://n2086.securepoint.io:25461/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 04
+http://wayforward.xyz:25461/marsha/marsha/53853
+#EXTINF:-1 tvg-id="btsport5.uk" tvg-name="GB : BT SPORTS 05" tvg-logo="http://n2086.securepoint.io:25461/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 05
+http://wayforward.xyz:25461/marsha/marsha/53854
+#EXTINF:-1 tvg-id="btsport6.uk" tvg-name="GB : BT SPORTS 06" tvg-logo="http://n2086.securepoint.io:25461/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 06
+http://wayforward.xyz:25461/marsha/marsha/53855
+#EXTINF:-1 tvg-id="btsport7.uk" tvg-name="GB : BT SPORTS 07" tvg-logo="http://n2086.securepoint.io:25461/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 07
+http://wayforward.xyz:25461/marsha/marsha/53856
+#EXTINF:-1 tvg-id="btsport8.uk" tvg-name="GB : BT SPORTS 08" tvg-logo="http://n2086.securepoint.io:25461/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 08
+http://wayforward.xyz:25461/marsha/marsha/53857
+#EXTINF:-1 tvg-id="btsport9.uk" tvg-name="GB : BT SPORTS 09" tvg-logo="http://n2086.securepoint.io:25461/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 09
+http://wayforward.xyz:25461/marsha/marsha/53858
+#EXTINF:-1 tvg-id="btsport10.uk" tvg-name="GB : BT SPORTS 10" tvg-logo="http://n2086.securepoint.io:25461/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 10
+http://wayforward.xyz:25461/marsha/marsha/53859
+#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="GB : BT SPORTS ULTIMATE 4K" tvg-logo="http://n2086.securepoint.io:25461/images/da0b60b5f6b0d3d8e1fa62d74ff1d932.png" group-title="PREMIUM SPORTS",GB : BT SPORTS ULTIMATE 4K
+http://wayforward.xyz:25461/marsha/marsha/224931
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="GB : VIAPLAY SPORTS 1" tvg-logo="http://n2086.securepoint.io:25461/images/b0462e40806648b77efd8aebbd4742d8.png" group-title="PREMIUM SPORTS",GB : VIAPLAY SPORTS 1
+http://wayforward.xyz:25461/marsha/marsha/53942
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="GB : VIAPLAY SPORTS 2" tvg-logo="http://n2086.securepoint.io:25461/images/b0462e40806648b77efd8aebbd4742d8.png" group-title="PREMIUM SPORTS",GB : VIAPLAY SPORTS 2
+http://wayforward.xyz:25461/marsha/marsha/53943
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="GB : VIAPLAY XTRA" tvg-logo="http://n2086.securepoint.io:25461/images/b0462e40806648b77efd8aebbd4742d8.png" group-title="PREMIUM SPORTS",GB : VIAPLAY XTRA
+http://wayforward.xyz:25461/marsha/marsha/53900
+
+#EXTINF:-1 tvg-id="" tvg-name="AR : FOX SPORTS PREMIUM" tvg-logo="http://hostengine.live:25461/images/4f8890c2fd53da87443d1f6f5e8857b7.png" group-title="PREMIUM SPORTS",FOX SPORTS PREMIUM
+http://wayforward.xyz:25461/marsha/marsha/57757
+#EXTINF:-1 tvg-id="" tvg-name="BR : FOX SPORTS 1" tvg-logo="http://hostengine.live:25461/images/Brazil.png" group-title="PREMIUM SPORTS",BR FOX SPORTS 1
+http://wayforward.xyz:25461/marsha/marsha/58465
+#EXTINF:-1 tvg-id="" tvg-name="BR : FOX SPORTS 2" tvg-logo="http://hostengine.live:25461/images/Brazil.png" group-title="PREMIUM SPORTS",BR FOX SPORTS 2
+http://wayforward.xyz:25461/marsha/marsha/58466
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS HD" tvg-logo="http://n2086.securepoint.io:25461/images/9747d462a69ce562db43f065d323c39b.png" group-title="PREMIUM SPORTS",CL: TNT SPORTS HD
+http://wayforward.xyz:25461/marsha/marsha/137017
