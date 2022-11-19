@@ -19,3 +19,6 @@ http://live2.vthanhtivi.pw/vtv5tnb
 http://live.vthanhtivi.pw:8080/vtvct
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ MyTV
 http://live2.vthanhtivi.pw/vtvct
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtvcantho_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV Cần Thơ HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
