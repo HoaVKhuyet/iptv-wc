@@ -30,3 +30,10 @@ http://live2.vthanhtivi.pw/vtvct
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtvcantho_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV Cần Thơ HD
 https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DyyQFjCg+FzxhkIno4vM/A", "kid":"33jRbDgdcB3HLsCxzIFZCw" } ], "type":"temporary" }
+#EXTINF:-1 group-title="🏆 World Cup 2022" tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/CJAbJfM.png",TF1(Android)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0"
+https://mtv-live.cloud-02.molotov.tv/public/tf1/tf1.isml/fullhd25.mpd
