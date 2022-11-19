@@ -46,3 +46,20 @@ http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8ty
 
 #EXTINF:-1 tvg-id="" tvg-name="FIFA WC 10" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="🏆 World Cup 2022",WC 4K Feed v2
 http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/129097.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FIFA WC 01: Qatar Vs Ecuador 16:00 20/11" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="🏆 World Cup 2022",FIFA WC 01: Qatar Vs Ecuador 16:00 20/11
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/129088.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA WC 02: Qatar Vs Ecuador 16:00 20/11" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="🏆 World Cup 2022",FIFA WC 02: Qatar Vs Ecuador 16:00 20/11
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/129089.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA WC 03: England Vs Iran 13:00 21/11" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="🏆 World Cup 2022",FIFA WC 03: England Vs Iran 13:00 21/11
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/129090.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA WC 04: England Vs Iran 13:00 21/11" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="🏆 World Cup 2022",FIFA WC 04: England Vs Iran 13:00 21/11
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/129091.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA WC 05: Senegal Vs Netherlands 16:00 21/11" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="🏆 World Cup 2022",FIFA WC 05: Senegal Vs Netherlands 16:00 21/11
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/129092.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA WC 06: Senegal Vs Netherlands 16:00 21/11" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="🏆 World Cup 2022",FIFA WC 06: Senegal Vs Netherlands 16:00 21/11
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/129093.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA WC 07: USA Vs Wales 19:00 21/11" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="🏆 World Cup 2022",FIFA WC 07: USA Vs Wales 19:00 21/11
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/129094.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA WC 08: USA Vs Wales 19:00 21/11" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="🏆 World Cup 2022",FIFA WC 08: USA Vs Wales 19:00 21/11
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/129095.ts
