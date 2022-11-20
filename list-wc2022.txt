@@ -17,6 +17,10 @@ http://live.vthanhtivi.pw:8080/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 T2
 http://live2.vthanhtivi.pw/vtv3
 
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://gg.gg/vtv-3" group-title="🏆 World Cup 2022", VTV3 HD 1080p
+#EXTVLCOPT::http-user-agent="ExoPlayer-FPTPlay/3.5.5 (Linux;Android 7.0) ExoPlayerLib/2.7.3
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
 http://live.vthanhtivi.pw:8080/vtv5
 
