@@ -1,6 +1,16 @@
 ﻿#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
 #List suu tam Internet
 
+#EXTINF:0 tvg-id="vtv6hd"group-title="🏆 World Cup 2022" tvg-logo="https://i.ibb.co/zmKpWCv/vtv-can-tho-16650500344341813094040-removebg-preview.png" ,VTV Cần thơ FPT
+https://wallpapermeter.tk/worldcup/vtvcantho
+#EXTINF:0 tvg-id="vtv3hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv3logokiptv" ,VTV3 FPT
+https://wallpapermeter.tk/worldcup/vtv3
+#EXTINF:0 tvg-id="vtv2hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv2logokiptv" ,VTV2 FPT
+https://wallpapermeter.tk/worldcup/vtv2
+#EXTINF:0 tvg-id="vtv5hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv5logokiptv" ,VTV5 FPT
+https://wallpapermeter.tk/worldcup/vtv5
+
+
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT
 http://live.vthanhtivi.pw:8080/vtv2
 
