@@ -53,13 +53,3 @@ https://mtv-live.cloud-02.molotov.tv/public/tf1/tf1.isml/fullhd25.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="🏆 World Cup 2022",DSTV  World Cup 4K 2160p
 http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/129061.ts
 
-
-#EXTINF:6,group-title="🏆 World Cup 2022",Test 1
-3000000001000028638_1500000_20221121_162000_16.ts?channel-id=FifastbLive&Contentid=3000000001000028638&usergroup=g28093100000&livemode=1&stbId=toShengfenFIFA&cmcc_cid=3000000001000028638&HlsSubType=2&HlsProfileId=1
-#EXT-X-PROGRAM-DATE-TIME:2022-11-21T08:21:54Z
-#EXTINF:6,group-title="🏆 World Cup 2022",Test 2
-3000000001000028638_1500000_20221121_162000_17.ts?channel-id=FifastbLive&Contentid=3000000001000028638&usergroup=g28093100000&version=1.0&owaccmark=3000000001000028638&owchid=FifastbLive&owsid=6662641668443581285&AuthInfo=3ICY3g4wJrTdTVbsEde4lSwdzwLh0RRAI%2FFSMG1K6%2BlT%2BlOZxe3X501sQrtyWUtiwJ40ZhkJ1dgoEK%2FpDXSagQjBlctf4IfBQZuAN3XuHTU%3D&livemode=1&stbId=toShengfenFIFA&cmcc_cid=3000000001000028638&HlsSubType=2&HlsProfileId=1
-#EXT-X-PROGRAM-DATE-TIME:2022-11-21T08:21:57Z
-#EXTINF:6,group-title="🏆 World Cup 2022",Test 3
-3000000001000028638_1500000_20221121_162000_18.ts?channel-id=FifastbLive&Contentid=3000000001000028638&usergroup=g28093100000&version=1.0&owaccmark=3000000001000028638&owchid=FifastbLive&owsid=2260321668724447061&AuthInfo=3ICY3g4wJrTdTVbsEde4lf%2BIEtyxDbjCIlbs0qsWNnUp8EaP7NjGQcOZhEynO6%2BGZFX1bXEOS5GgMT0K6f4bChzpKqHJdCVWiUZHEL31n6c%3D&livemode=1&stbId=toShengfenFIFA&cmcc_cid=3000000001000028638&HlsSubType=2&HlsProfileId=1
-
