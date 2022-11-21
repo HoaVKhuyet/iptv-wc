@@ -52,3 +52,66 @@ https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://gg.gg/vtv-6" group-title="🏆 World Cup 2022", VTV6 CanTho 1080p
 #EXTVLCOPT::http-user-agent="ExoPlayer-FPTPlay/3.5.5 (Linux;Android 7.0) ExoPlayerLib/2.7.3
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="vtv6hd"group-title="🏆 World Cup 2022" tvg-logo="https://i.ibb.co/zmKpWCv/vtv-can-tho-16650500344341813094040-removebg-preview.png" ,VTV Cần thơ FPT
+https://wallpapermeter.tk/worldcup/vtvcantho
+#EXTINF:0 tvg-id="vtv3hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv3logokiptv" ,VTV3 FPT
+https://wallpapermeter.tk/worldcup/vtv3
+#EXTINF:0 tvg-id="vtv2hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv2logokiptv" ,VTV2 FPT
+https://wallpapermeter.tk/worldcup/vtv2
+#EXTINF:0 tvg-id="vtv5hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv5logokiptv" ,VTV5 FPT
+https://wallpapermeter.tk/worldcup/vtv5
+
+
+
+
+#EXTINF:0 tvg-id="vtv6hd"group-title="🏆 World Cup 2022" tvg-logo="https://i.ibb.co/zmKpWCv/vtv-can-tho-16650500344341813094040-removebg-preview.png" ,VTV Cần thơ MYTV
+https://wallpapermeter.tk/worldcup/vtvcanthomytv
+#EXTINF:0 tvg-id="vtv3hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv3logokiptv" ,VTV3  MYTV
+https://wallpapermeter.tk/worldcup/vtv3mytv
+#EXTINF:0 tvg-id="vtv2hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv2logokiptv" ,VTV2  MYTV
+https://wallpapermeter.tk/worldcup/vtv2mytv
+#EXTINF:0 tvg-id="vtv5hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv5logokiptv" ,VTV5  MYTV
+https://wallpapermeter.tk/worldcup/vtv5mytv
+
+
+
+
+#EXTINF:0 tvg-id="vtv6hd"group-title="🏆 World Cup 2022" tvg-logo="https://i.ibb.co/zmKpWCv/vtv-can-tho-16650500344341813094040-removebg-preview.png" ,VTV Cần thơ  Viettel
+http://27.72.63.63:9981/stream/channelid/1082408882?auth=PmoC-yNH1P-xfEIRR4sxZEHcVoeg&profile=pass
+#EXTINF:0 tvg-id="vtv3hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv3logokiptv" ,VTV3  Viettel
+http://27.72.63.63:9981/stream/channelid/506541025?auth=PmoC-yNH1P-xfEIRR4sxZEHcVoeg&profile=pass
+#EXTINF:0 tvg-id="vtv2hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv2logokiptv" ,VTV2 Viettel
+http://27.72.63.63:9981/stream/channelid/1726874393?auth=PmoC-yNH1P-xfEIRR4sxZEHcVoeg&profile=pass
+#EXTINF:0 tvg-id="vtv5hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv5logokiptv" ,VTV5 Viettel
+http://27.72.63.63:9981/stream/channelid/1138008153?auth=PmoC-yNH1P-xfEIRR4sxZEHcVoeg&profile=pass
+
+
+
+
+#EXTINF:0 tvg-id="vtv2hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv2logokiptv" ,VTV2 Luồng 1
+http://bolero.myftp.org:6001/stream/channelid/210379033?profile=pass
+#EXTINF:0 tvg-id="vtv2hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv2logokiptv" ,VTV2 Luồng 2
+http://bolero.myftp.org:6001/stream/channelid/807965496?profile=pass
+#EXTINF:0 tvg-id="vtv2hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv2logokiptv" ,VTV2 Luồng 3
+
+
+
+
+http://bolero.myftp.org:6001/stream/channelid/533721021?profile=pass
+#EXTINF:0 tvg-id="vtv3hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv3logokiptv" ,VTV3 Luồng 1
+http://bolero.myftp.org:6001/stream/channelid/841317984?profile=pass
+#EXTINF:0 tvg-id="vtv3hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv3logokiptv" ,VTV3 Luồng 2
+http://bolero.myftp.org:6001/stream/channelid/1537326910?profile=pass
+#EXTINF:0 tvg-id="vtv3hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv3logokiptv" ,VTV3 Luồng 3
+
+
+
+
+http://bolero.myftp.org:6001/stream/channelid/1070915527?profile=pass
+#EXTINF:0 tvg-id="vtv5hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv5logokiptv" ,VTV5 Luồng 1
+http://bolero.myftp.org:6001/stream/channelid/1230788689?profile=pass
+#EXTINF:0 tvg-id="vtv5hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv5logokiptv" ,VTV5 Luồng 2
+http://bolero.myftp.org:6001/stream/channelid/1279518350?profile=pass
+#EXTINF:0 tvg-id="vtv5hd"group-title="🏆 World Cup 2022" tvg-logo="http://gg.gg/vtv5logokiptv" ,VTV5 Luồng 3
+http://bolero.myftp.org:6001/stream/channelid/1058799662?profile=pass
