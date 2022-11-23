@@ -17,6 +17,8 @@ https://wallpapermeter.tk/worldcup/vtv2mytv
 http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 T2
 http://bolero.myftp.org:6001/stream/channelid/768326915?profile=pass
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 1080p
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
@@ -35,6 +37,8 @@ http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv3
 http://live2.vthanhtivi.pw/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 T2 (2)
 http://bolero.myftp.org:6001/stream/channelid/165907585?profile=pass
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 1080p
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
 http://live.vthanhtivi.pw:8080/vtv5
@@ -55,6 +59,8 @@ http://bolero.myftp.org:6001/stream/channelid/706696953?profile=pass
 http://live.vthanhtivi.pw:8080/vtv5tnb
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ (Server 2)
 http://live2.vthanhtivi.pw/vtv5tnb
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 1080p
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT
 http://live.vthanhtivi.pw:8080/vtvct
@@ -66,3 +72,5 @@ http://live2.vthanhtivi.pw/vtvct
 https://wallpapermeter.tk/worldcup/vtvcanthomytv
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ ViettelTV
 http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtvct
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ 1080p
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
