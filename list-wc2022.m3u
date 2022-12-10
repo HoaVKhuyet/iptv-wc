@@ -1,34 +1,14 @@
 ﻿#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
 #List suu tam Internet
 
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
-http://live.vthanhtivi.pw/vtv2
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT
-https://wallpapermeter.tk/worldcup/vtv2
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV
-https://wallpapermeter.tk/worldcup/vtv2mytv
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 ViettelTV
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv2
+#EXTINF:-1 group-title="🏆| World Cup 2022" tvg-logo="https://i.imgur.com/R7q7HZj.png" tvg-id="6592a9bec7b59a571f027bbc73699b6d",VTV2 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/184155509?profile=pass
 
+#EXTINF:-1 group-title="🏆| World Cup 2022" tvg-logo="https://i.imgur.com/o6SxT3q.png" tvg-id="f1d586f11691fa622af6d232b02dc024",VTV3 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1904662001?profile=pass
 
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-http://live.vthanhtivi.pw/vtv3
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
-https://wallpapermeter.tk/worldcup/vtv3
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV
-https://wallpapermeter.tk/worldcup/vtv3mytv
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 ViettelTV
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv3
+#EXTINF:-1 group-title="🏆| World Cup 2022" tvg-logo="https://i.imgur.com/VBErOd8.png" tvg-id="3a8e10f3ab031628e65d95fac283199d",VTV5 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1930464826?profile=pass
 
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-#http://live.vthanhtivi.pw/vtv5
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV
-https://wallpapermeter.tk/worldcup/vtv5mytv
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 ViettelTV
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv5
-
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
-http://live.vthanhtivi.pw/vtv5tnb
-
-#EXTINF:-1 group-title="🏆| World Cup 2022" tvg- logo="https://i.imgur.com/GtnRg0D.png" tvg-id="57102efa5659c3f6fb7c3515f9b49890",VTV6 HD
+#EXTINF:-1 group-title="🏆| World Cup 2022" tvg-logo="https://i.imgur.com/GtnRg0D.png" tvg-id="57102efa5659c3f6fb7c3515f9b49890",VTV6 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975?profile=pass
