@@ -30,11 +30,5 @@ http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv5
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
 http://live.vthanhtivi.pw/vtv5tnb
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
-http://live.vthanhtivi.pw/vtvct
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV Cần Thơ FPT
-https://wallpapermeter.tk/worldcup/vtvcantho
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV Cần Thơ MyTV
-https://wallpapermeter.tk/worldcup/vtvcanthomytv
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ ViettelTV
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtvct
+#EXTINF:-1 group-title="🏆| World Cup 2022" tvg- logo="https://i.imgur.com/GtnRg0D.png" tvg-id="57102efa5659c3f6fb7c3515f9b49890",VTV6 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975?profile=pass
